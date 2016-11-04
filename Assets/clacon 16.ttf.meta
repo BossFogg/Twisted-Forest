@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e25cebac9f7a2e42b2b585f02cd3a23
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - Classic Console 16
+  customCharacters: 
+  fontRenderingMode: 2
+  userData: 
